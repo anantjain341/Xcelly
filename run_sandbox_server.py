@@ -12,6 +12,7 @@ The server will run on http://localhost:8765
 
 import sys
 from pathlib import Path
+import os
 
 # Add the project root to the path
 project_root = Path(__file__).parent
